@@ -25,3 +25,11 @@ The risk register lists 14 risks:
 Top priorities are replacing weak credentials, restricting server traffic, and removing exposed secrets.
 
 The report concludes that significant remediation is required before go‑live, and several controls need verification or redesign.
+
+
+## 📄 Project Reports 
+
+- **[GRC Report](https://docs.google.com/document/d/1bemh_DUUDbgSDs4Db6Abk-gcUt6cMFkU6FGx_szSj5U/edit?tab=t.0)**
+- **[Audit Checklist](https://docs.google.com/spreadsheets/d/1BruiF9MkoeRIxkOG-CM0Mb6zvjQF5cAMVwwaj9zDLd4/edit?gid=1971079383#gid=1971079383)**
+- **[Risk Register ](https://docs.google.com/spreadsheets/d/1BruiF9MkoeRIxkOG-CM0Mb6zvjQF5cAMVwwaj9zDLd4/edit?gid=2068033980#gid=2068033980)**
+- **[Asset Inventory](https://docs.google.com/spreadsheets/d/1BruiF9MkoeRIxkOG-CM0Mb6zvjQF5cAMVwwaj9zDLd4/edit?gid=0#gid=0)**
