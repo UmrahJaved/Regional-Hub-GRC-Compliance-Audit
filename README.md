@@ -1,5 +1,6 @@
 # Regional-Hub-GRC-Compliance-Audit
 Governance, Risk &amp; Compliance audit of the Regional R&amp;D and Production Hub network design by **Netify**.
+#### Team Members: Dji Gapomo, Mohammad Sabbir, Umrah Javed
 
 The Governance, Risk & Compliance (GRC) report evaluates the proposed network infrastructure for the NVIDIA Regional R&D and Production Hub. It reviews the design, configurations, security controls, and Packet Tracer implementation against NVIDIA’s RFQ requirements.
 
