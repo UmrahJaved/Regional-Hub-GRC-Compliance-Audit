@@ -6,7 +6,7 @@ The Governance, Risk & Compliance (GRC) report evaluates the proposed network in
 
 The audit identifies major weaknesses in both technical security and governance. 
 
-**Out of 14 assessed controls, none fully passed; 10 failed and 5 partially passed, resulting in an overall unsatisfactory rating.**
+**Out of 14 assessed controls, none fully passed; 10 failed and 4 partially passed, resulting in an overall unsatisfactory rating.**
 
 Key issues include:
 * Weak and reused administrative credentials (“Cisco123”)
